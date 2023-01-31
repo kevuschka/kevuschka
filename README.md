@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kevuschka
 - 👀 I’m interested in a lot.
 - 🌱 I’m currently learning front-end web development at developerakademie.com.
-- 📫 You can reach me on LinkedIn or kevuschka@web.de.
+- 📫 You can reach me on LinkedIn or k.schumilo@outlook.de.
 
 <!---
 kevuschka/kevuschka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
