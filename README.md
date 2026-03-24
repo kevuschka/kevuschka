@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kevin Schumilo
 
-## [🎮 Pokedex](https://kevuschka.github.io/pokedex/)    [🐔 El Pollo Locko](https://kevuschka.github.io/elpollolocko/)    [❌⭕ Tic Tac Toe](https://kevuschka.github.io/TicTacToe/)
+## [🎮 Pokedex](https://kevuschka.github.io/pokedex/)    [❌⭕ Tic Tac Toe](https://kevuschka.github.io/TicTacToe/)
 
 💻 Front-End Developer | JavaScript Enthusiast
 
