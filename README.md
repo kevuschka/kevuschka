@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Kevin Schumilo]
+# 👋 Hi, I'm Kevin Schumilo
 
 💻 Front-End Developer | JavaScript Enthusiast
 
@@ -42,4 +42,4 @@ I'm a Front-End Developer passionate about building scalable web applications wi
 
 ## 📫 Contact
 
-📧 Email: [k.schumilo@outlook.de]  
+📧 Email: k.schumilo@outlook.de
