@@ -36,7 +36,9 @@ I'm a Front-End Developer passionate about building scalable web applications wi
 
 - Developed responsive UIs with modern HTML5 & CSS3  
 - Built dynamic interfaces using JavaScript  
-- Used Git for version control and collaboration  
+- Used Git for version control and collaboration
+- Communicate via slack and Jira
+- Scrum + Kanban = Scrumban
 
 ---
 
