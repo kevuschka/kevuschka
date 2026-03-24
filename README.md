@@ -1,5 +1,10 @@
 # 👋 Hi, I'm Kevin Schumilo
 
+## [🎮 Pokedex](https://kevuschka.github.io/pokedex/) | [🐔 El Pollo Locko](https://kevuschka.github.io/elpollolocko/)
+
+### 🧠 Pokédex App
+A simple Pokédex built with modern frontend technologies.
+
 💻 Front-End Developer | JavaScript Enthusiast
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&width=435&lines=Frontend+Developer;JavaScript+Lover;Building+Modern+Web+Apps)
