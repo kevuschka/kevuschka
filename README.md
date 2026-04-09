@@ -2,7 +2,7 @@
 
 ## [🎮 Pokedex](https://kevuschka.github.io/pokedex/)  🐔[El pollo locko](https://kevin-schumilo.developerakademie.net/elpollolocko/)   [❌⭕ Tic Tac Toe](https://kevuschka.github.io/TicTacToe/)
 
-💻 Front-End Developer | JavaScript Enthusiast
+💻 Software Developer (Frontend) | JavaScript Enthusiast
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&width=435&lines=Frontend+Developer;JavaScript+Lover;Building+Modern+Web+Apps)
 
@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Front-End Developer passionate about building scalable web applications with clean and modern UIs.
+I'm a Software Developer passionate about building scalable web applications with clean and modern UIs.
 
 ### 💡 What I bring to the table:
 
