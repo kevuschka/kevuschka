@@ -4,7 +4,7 @@
 
 💻 Software Developer (Frontend) | JavaScript Enthusiast
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&width=435&lines=Frontend+Developer;JavaScript+Lover;Building+Modern+Web+Apps)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&width=435&lines=Software+Developer;JavaScript+Lover;Building+Modern+Web+Apps)
 
 ---
 
